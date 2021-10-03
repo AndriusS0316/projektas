@@ -1,0 +1,11 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+p {
+  color: aqua;
+}
+.container {
+  max-width: 80%;
+  margin: auto;
+}
