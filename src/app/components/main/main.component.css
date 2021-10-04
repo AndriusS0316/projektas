@@ -1,11 +1,11 @@
 .main {
   margin-top: 10px;
   height: 80vh;
-  background-image: url("https://wallpapercave.com/wp/wp2754864.jpg"); /* The image used */
-  background-color: #cccccc; /* Used if the image is unavailable */
-  height: 500px; /* You must set a specified height */
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+  background-image: url("https://wallpapercave.com/wp/wp2754864.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 25px;
 }
